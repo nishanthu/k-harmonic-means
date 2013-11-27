@@ -2,7 +2,9 @@
 ## 1. vectorize
 ## 2. multi-core
 ## 3. code in Rcpp
-## 4. create package
+## 4. Generalized KHM-p 
+## 5. create package
+
 
 khmeans <- function(x, centers, max.iter, nstart) {
   
